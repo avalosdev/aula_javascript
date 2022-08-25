@@ -11,7 +11,7 @@
     
 
    
-Para Visualizar os exercícios <a href="https://github.com/avalosdev/aula_javascript/tree/master">Para Visclique Aqui</a>
+Para Visualizar os exercícios. <a href="https://github.com/avalosdev/aula_javascript/tree/master">Clique Aqui</a>
 
 
 
