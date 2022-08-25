@@ -3,7 +3,7 @@
       
 
   
-   Exercicios feitos da Plataforma Dio -
+   Exercicios extraídos da Plataforma Dio -
    Aula ministrada pelo Professor:
    Rafael Galleani  
     Líder Técnico na Global Hitss
