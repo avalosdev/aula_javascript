@@ -3,9 +3,10 @@
       
 
   
-   Aula da Plataforma Dio - ministrada pelo Professor:
-       Rafael Galleani  
-         Líder Técnico na Global Hitss
+   Exercicios feitos da Plataforma Dio -
+   Aula ministrada pelo Professor:
+   Rafael Galleani  
+    Líder Técnico na Global Hitss
 
     
 
