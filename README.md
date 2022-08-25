@@ -5,14 +5,13 @@
   
    Exercicios extraídos da Plataforma Dio -
    Aula ministrada pelo Professor:
-   <p>Rafael Galleani</p>
-    Líder Técnico na Global Hitss
+   Rafael Galleani
+   <p> Líder Técnico na Global Hitss</p>
 
     
 
    
-
-<a href="https://github.com/avalosdev/aula_javascript/tree/master">clique Aqui</a>
+Para Visualizar os exercícios <a href="https://github.com/avalosdev/aula_javascript/tree/master">Para Visclique Aqui</a>
 
 
 
