@@ -5,7 +5,7 @@
   
    Exercicios extraídos da Plataforma Dio -
    Aula ministrada pelo Professor:
-   Rafael Galleani  
+   <p>Rafael Galleani</p>
     Líder Técnico na Global Hitss
 
     
